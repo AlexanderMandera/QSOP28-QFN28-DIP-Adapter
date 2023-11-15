@@ -1,0 +1,1 @@
+# QSOP28/QFN28 to DIP Adapter
